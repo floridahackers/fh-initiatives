@@ -15,6 +15,8 @@ It can be anything from asking to document the stories of hackers, to proposing 
 
 Any Florida Hacker can propose ideas, calls for organizers, and events- all you have to do is submit a pull request. Before it can be an initiative- there must be a proposal with a clear roadmap + goal. Don't worry, we will get into how to make a suggestion.
 
+[We would love to see you on the Slack!][https://floridahackers.slack.com/signup]
+
 # How do I submit a proposal?
 
 Fork the repo, copy the sample-proposal.md and name the markdown file the name of your's and fill out the questions. Submit a pull request and start a discussion. Feel free to invite a friend or the community. 
