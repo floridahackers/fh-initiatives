@@ -8,7 +8,7 @@ This README explains how to propose an FH-Initiative.
 
 Florida Hackers is a statewide community dedicated to growing the hacker culture in Florida, connecting creators across the state, promoting community building, and leaving our sunshine state a little brighter than before. Florida Hackers is fueled by the community, so to promote our mission, we need people like you to help.
 
-# What Is an FH-Initiative?
+# What is an FH-Initiative?
 
 An FH-Initiative is a project that is undertaken by members of the Florida Hackers community where hackers like you can contribute to the mission.
 
