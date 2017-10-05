@@ -6,7 +6,7 @@ Organizers and community leaders within Florida hackers, or anyone else interest
 
 ## Community needs
 
-Creating a good workshop takes a lot of time, a lot of love, and sometimes skills orthogonal to the content of the workshop iteself.
+Creating a good workshop takes a lot of time, a lot of love, and sometimes skills orthogonal to the content of the workshop itself.
 
 This proposal aims to streamline the process of sharing workshops, and other resources, amongst members of the community interested in hosting workshops for their students.
 
@@ -18,7 +18,7 @@ A GitHub repository.
 
 Gwen's _Git & GitHub_ workshop shall serve as the first example of a workshop as a shared resource within Florida Hackers.
 
-Depending on the appraoch, a contributions guide shall serve to lay out precise instructions for adding a shared resource.
+Depending on the approach, a contributions guide shall serve to lay out precise instructions for adding a shared resource.
 
 ## Timeline
 
