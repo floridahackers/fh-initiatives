@@ -18,14 +18,15 @@ A GitHub repository, and access to FH branding materials to make a sick `README.
 
 Gwen's _Git & GitHub_ workshop shall serve as the first example of a workshop as a shared resource within Florida Hackers.
 
-Depending on the approach, a contributions guide shall serve to lay out precise instructions for adding a shared resource.
+A contributions guide shall serve to lay out precise instructions for adding a shared resource, along with a pull request template to guide community members that want to propose a resource.
+
+The repository will act much like an awesome lists repository, where we keep links to and descriptions of resources rather than copies of the resources themselves. This shall:
+
+1. limit the burdon of maintenance
+1. allow content creators to own their content
+1. simplify logistics of adding resources
 
 ## Timeline
 
 This proposal takes only a few hours to implement once an approach is decided.
 
-## Questions & Feedback
-
-- Do we create a repository and maintain it like an "awesome lists" repo? (Gwen's preferred approach)
-- Do we simply keep and update forks of resources (esp. workshops) or do we transfer resource repositories(esp. workshops) to FloridaHackers's GitHub organization?
-- Do we keep git submodules of resources (when applicable) in the repo?
