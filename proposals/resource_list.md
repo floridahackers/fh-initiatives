@@ -12,7 +12,7 @@ This proposal aims to streamline the process of sharing workshops, and other res
 
 ## Resources
 
-A GitHub repository.
+A GitHub repository, and access to FH branding materials to make a sick `README.md`.
 
 ## Media
 
