@@ -29,7 +29,7 @@ Thanks Chris Rodriguez for this comment
 ## Media
 
 <!-- How are you preparing to deliver your community impact project? -->
-Endorsing a Florida Hackers discord at every FL hackathon starting with ShellHacks could help grow the community exponentially
+Endorsing the existence of a Florida Hackers discord at every FL hackathon starting with ShellHacks will help the community grow significantly.
 <!-- What are you going to do to prepare to deliver the content? -->
 Create a pull request to change the florida hackers site to have a discord invite link
 ## Timeline
@@ -37,11 +37,15 @@ Create a pull request to change the florida hackers site to have a discord invit
 <!-- Develop a rough timeline for your propsal. -->
 Upon approval of proposal, so time is relative here
 
-1. 1 day to create and setup strucutre of discord
+1. A few hours to create the discord server and the structure of the server
 2. 1 or 2 days afterwards to create pull request to change the florida hackers site to have the discord invite link
 3. After setup and creation, as well as the addition of the new changes to the site. Market the switch from Slack to Discord constantly
    - Posting to the Florida Hackers facebook
    - and have every individual hack club endorse the new discord
 4. At the date of every hackathon in florida, display invite link for discord for raising awareness of our community chat
 
-In total, creating the discord with proper permission set, as well as updating the FH site should only take 5 days maximum. Afterwards marketing and endorsement should be year round. 
+In total, creating the discord with proper permission set, as well as updating the FH site should only take 3 days maximum. Afterwards marketing and endorsement should be year round.
+
+<!-- Links and Resources for Discord -->
+1. https://discordapp.com/developers/docs/intro
+2. https://blog.sia.tech/guide-moving-your-online-community-from-slack-to-discord-afb23610911a
